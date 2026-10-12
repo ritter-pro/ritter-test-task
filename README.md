@@ -1,1 +1,0 @@
-# ritter-test-task
